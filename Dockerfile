@@ -5,7 +5,7 @@ MAINTAINER Trevor Hartman <trevorhartman@gmail.com>
 RUN apk update && \
     apk add git
 
-RUN npm install git2consul@0.12.7 --global
+RUN npm install git2consul@0.12.8 --global
 
 EXPOSE 5252/tcp
 

@@ -1,6 +1,6 @@
 # git2consul-docker
 
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-0.12.7-blue.svg)](https://hub.docker.com/r/devth/git2consul/tags/)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-0.12.11-blue.svg)](https://hub.docker.com/r/devth/git2consul/tags/)
 
 Automated Dockerfile build repository for devth/git2consul.
 
